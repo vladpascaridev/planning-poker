@@ -20,7 +20,6 @@ A simple, responsive Planning Poker estimation tool built with React, TypeScript
 ### Install dependencies
 
 ```
-cd planning-poker
 npm install
 ```
 
@@ -35,7 +34,6 @@ The app will be available at `http://localhost:5173` (or the port shown in your 
 ## Project Structure
 - `src/App.tsx` — Main app UI and logic
 - `src/main.tsx` — App entry point and theme provider
-- `public/` — Static assets
 
 ## License
 MIT
